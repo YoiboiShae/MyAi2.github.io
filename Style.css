@@ -1,0 +1,31 @@
+header{
+    background-color: #EADBC8;
+}
+body{
+    background-color: #F8F0E5;
+}
+footer{
+    background-color: #232D3F;
+}
+ul{
+    font-family: sans-serif, arial;
+    color: #2d4d7e;
+}
+h1{
+    font-family: Verdana;
+    color: #54adec;
+}
+
+p1{
+    font-family: sans-serif, arial;
+    color: #2d4d7e;
+}
+
+.navbar a{
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navbar a:hover{
+    background-color: #F8F0E5;
+}
